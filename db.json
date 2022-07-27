@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers 4",
+      "image": "assets/avengers-4.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Avatar2",
+      "image": "assets/avatar-2.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "Black widow",
+      "image": "assets/blackwidow.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Matrix 4",
+      "image": "assets/matrix-4.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 5,
+      "title": "Army of Thievs",
+      "image": "assets/army-of-thievs.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 6,
+      "title": "Finch",
+      "image": "assets/finch.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 7,
+      "title": "Light Year",
+      "image": "assets/light-year.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 8,
+      "title": "The Gray Man",
+      "image": "assets/the-gray-man.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 9,
+      "title": "Jurassic World Dominion",
+      "image": "assets/jurassic-world-dominion.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 10,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "image": "assets/doctor-strange-in-the-multiverse-of-madness.jpg",
+      "isWatched": true,
+      "isFav": false
+    }
+  ]
+}
