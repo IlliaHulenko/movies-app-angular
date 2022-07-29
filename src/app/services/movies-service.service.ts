@@ -20,4 +20,10 @@ export class MoviesService {
   getMovies(): Observable<Movies[]>{
     return this.http.get<Movies[]>(this.baseApiUrl);
   }
+
+  updateMovie(movie: Movies): Observable<Movies>{
+    const url = `${this.baseApiUrl}/${movie.id}`;
+    return this.http.put<Movies>(url, movie, httpOptions);
+  }
+
 }

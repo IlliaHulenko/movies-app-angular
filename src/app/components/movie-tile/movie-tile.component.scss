@@ -13,17 +13,15 @@
   }
 
   .icon-bar {
-    background-color: rgba(0,0,0, 0.4);
     position: relative;
-    bottom: 29px;
+    bottom: 35px;
     display: flex;
     justify-content: space-around;
     gap: 5px;
     overflow: hidden;
   }
 
-  icon-bar:hover {
-    bottom: 29px;
-    transform: scale(1);
+  .icon-bar:hover {
+    transform: scale(1.2);
   }
 }

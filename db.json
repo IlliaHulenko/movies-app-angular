@@ -5,21 +5,21 @@
       "title": "Avengers 4",
       "image": "assets/avengers-4.jpg",
       "isWatched": true,
-      "isFav": true
+      "isFav": false
     },
     {
       "id": 2,
       "title": "Avatar2",
       "image": "assets/avatar-2.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 3,
       "title": "Black widow",
       "image": "assets/blackwidow.jpg",
       "isWatched": true,
-      "isFav": true
+      "isFav": false
     },
     {
       "id": 4,
@@ -53,8 +53,8 @@
       "id": 8,
       "title": "The Gray Man",
       "image": "assets/the-gray-man.jpg",
-      "isWatched": true,
-      "isFav": true
+      "isWatched": false,
+      "isFav": false
     },
     {
       "id": 9,
