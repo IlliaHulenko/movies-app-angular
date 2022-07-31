@@ -33,7 +33,7 @@
       "title": "Army of Thievs",
       "image": "assets/army-of-thievs.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "title": "Jurassic World Dominion",
       "image": "assets/jurassic-world-dominion.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 10,
