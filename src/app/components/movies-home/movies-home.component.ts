@@ -60,6 +60,6 @@ export class MoviesHomeComponent implements OnInit {
         this.watchedMovies = this.watchedMovies.filter((m) => m.id !== updatedMovie.id);
         this.yetToWatchMovies.push(updatedMovie);
       }
-    })
+    });
   }
 }

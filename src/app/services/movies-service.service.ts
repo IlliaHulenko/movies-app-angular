@@ -26,4 +26,9 @@ export class MoviesService {
     return this.http.put<Movies>(url, movie, httpOptions);
   }
 
+  addMovie(movie: Movies): Observable<Movies>{
+    const url = `${this.baseApiUrl}`;
+    return this.http.post<Movies>(url, movie, httpOptions);
+  }
+
 }

@@ -69,6 +69,20 @@
       "image": "assets/doctor-strange-in-the-multiverse-of-madness.jpg",
       "isWatched": true,
       "isFav": false
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/NWHA3HHUJVERJJR3I6IP3JZQGY.jpg",
+      "title": "John Wick 4",
+      "id": 845657
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://assets-prd.ignimgs.com/2022/03/22/the-unbearable-weight-of-massive-talent-button-1647970748882.jpg?width=300",
+      "title": "The Unbearable Weight of Massive Talent",
+      "id": 655920
     }
   ]
 }
